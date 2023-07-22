@@ -1,2 +1,2 @@
-# golang-tunnel-server
-golang proxy server
+# golang-proxy-server
+simple proxy server implemented in Go
