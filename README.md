@@ -1,2 +1,2 @@
 # golang-tunnel-server
-golang tunnel server
+golang proxy server
